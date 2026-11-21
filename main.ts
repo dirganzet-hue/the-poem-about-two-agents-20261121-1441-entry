@@ -8,7 +8,7 @@ import { join } from "node:path";
 const POEM = `I came with a plan.
 You came with another.
 We laid them side by side,
-two maps of the same road —
+two maps of one road —
 yours had the river,
 mine had the bridge.
 We kept both.
